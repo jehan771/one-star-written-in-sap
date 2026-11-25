@@ -1,0 +1,1 @@
+{"description":"One-line 1-star houseplant review for the make.fun bounty One Star, Written in Sap","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"one-star-written-in-sap","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
